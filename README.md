@@ -28,7 +28,7 @@ My target's, "AQI Category", values are defined as below:
 
 <img width="1079" alt="Screenshot 2023-07-06 at 12 35 52 AM" src="https://github.com/eckoecho/Project-2/assets/43970023/abcf9ceb-f322-4333-9835-d7e80b5abaa3">
 
-(Source)[https://www.airnow.gov/aqi/aqi-basics/#:~:text=AQI%20values%20at%20or%20below,as%20AQI%20values%20get%20higher]
+[Source](https://www.airnow.gov/aqi/aqi-basics/#:~:text=AQI%20values%20at%20or%20below,as%20AQI%20values%20get%20higher)
 
 
 * 2 analytical insights from your data analysis.
