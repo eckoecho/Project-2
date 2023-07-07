@@ -29,14 +29,7 @@ My target's, `AQI Category`, values are defined as below. For the sake of simpli
 [Source](https://www.airnow.gov/aqi/aqi-basics/#:~:text=AQI%20values%20at%20or%20below,as%20AQI%20values%20get%20higher)
 
 
-* 2 analytical insights from your data analysis.
-* You can use the 2 plots from Project 2, part 3 for this!
-  They should include visualizations AND written interpretations
-* The metrics for your best model
-* A description of how well your model would solve your business problem
-* A summary with at least 2 recommendations for your stakeholders, based on your model performance AND analytical findings.
-
-# Exploratory Data Analysis
+# Exploratory Data Analysis (EDA)
 
 ## AQI Value vs. PM2.5 AQI Value
 
@@ -56,3 +49,7 @@ Carbon Monoxide (CO) AQI Values also play a significant in the air quality. Pres
 While other models, such as the Decision Tree and the tuned Decision Tree, may appear to have better F1 training and testing scores of 1, this actually indicates that the models are overfit and will not accurately predict new data.
 
 My recommendation is to use the Random Forest model with PCA (Principal Component Analysis) because it achieves the best F1 scores. The F1 score considers both precision and recall. The Random Forest model with PCA achieves a testing F1 score of 1 for predicting good air quality, 0.98 for moderate air quality, and 0.93 for unhealthy air quality. The tuned Random Forest model also demonstrates good F1 scores on its testing data. However, when predicting "Unhealthy" air quality, its F1 score drops to 0.01. This is likely due to the limited number of "Unhealthy" data points compared to the number of good or moderate data points.
+
+By incorporating PCA, the model is able to effectively reduce the dimensionality of the input data while retaining important features. This helps in capturing the underlying patterns and relationships within the data, leading to improved predictive performance.
+
+Overall, the Random Forest model with PCA and my EDA findiings offers a robust and effective solution for accurately predicting air quality categories, making it a valuable tool for addressing questions on the air quality of a city and related decisions on the key indicators for policymakers.
