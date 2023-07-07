@@ -38,7 +38,7 @@ My target's, "AQI Category", values are defined as below:
 * A description of how well your model would solve your business problem
 * A summary with at least 2 recommendations for your stakeholders, based on your model performance AND analytical findings.
 
-#Exploratory Data Analysis
+# Exploratory Data Analysis
 
 When comparing features, the most prominent influencer of air quality is the PM2.5 levels within a city. In my scatterplot, we can see higher levels of PM2.5 are only present when the air quality dips into the unhealthy air quality. Therefore, reducing or eliminating PM2.5 levels within a city improves the air quality.
 <img width="850" alt="Screenshot 2023-07-07 at 8 07 31 AM" src="https://github.com/eckoecho/Project-2/assets/43970023/d4f47613-7c7f-47ea-b0e0-664949b002b0">
