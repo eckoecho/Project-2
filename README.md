@@ -22,7 +22,7 @@ This dataset is composed of information collected by the World Health Organizati
 
 There are 16695 rows, and 14 columns (13 features) in our dataset.
 
-My target's, `AQI Category`, values are defined as below:
+My target's, `AQI Category`, values are defined as below. For the sake of simplicity, I've binned these 3 columns as "Good", "Moderate", and "Unhealthy", combining "Unhealthy for Sensitive Groups", "Very Unhealthy", "Hazardous" as simply "Unhealthy". 
 
 <img width="1079" alt="Screenshot 2023-07-06 at 12 35 52 AM" src="https://github.com/eckoecho/Project-2/assets/43970023/abcf9ceb-f322-4333-9835-d7e80b5abaa3">
 
