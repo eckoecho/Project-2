@@ -1,5 +1,16 @@
 # Project-2
 
+
+
+
+In an increasingly polluted world, air pollution contaminates the fundamental necessities of life. This analysis is relevant to anyone who values the quality of life and depends on clean air, including policy makers.
+
+
+The source of this data comes from Kaggle, an open-source website for datasets and insights. This particular data can be found here: [Kaggle, World Air Quality Index (AQI)](https://www.kaggle.com/datasets/adityaramachandran27/world-air-quality-index-by-city-and-coordinates)
+
+
+This dataset is composed of information collected by the World Health Organization (WHO). The columns in our dataset indicate the key features that influence air qualities within cities around the world.  The features contain lexicon which readers may not be familiar with but are addressed in the accompanying table diagram.
+
 **Data Dictionary:**
 | Term | Definition |
 | --- | --- |
@@ -9,16 +20,6 @@
 | **NO2** | Nitrogen Dioxide, which is a reddish-brown gas and one of the main pollutants in the atmosphere. It is primarily emitted from combustion processes, such as vehicle engines, power plants, and industrial activities. |
 | **PM2.5** | PM2.5 refers to tiny particles or droplets in the air that are 2.5 micrometers or less in width. They can be harmful to human health when inhaled, especially in high concentrations.|
 
-
-In an increasingly polluted world, air pollution contaminates the fundamental necessities of life. This analysis is relevant to anyone who values the quality of life and depends on clean air, including policy makers.
-
-
-
-The source of this data comes from Kaggle, an open-source website for datasets and insights. This particular data can be found here: [Kaggle, World Air Quality Index (AQI)](https://www.kaggle.com/datasets/adityaramachandran27/world-air-quality-index-by-city-and-coordinates)
-
-
-
-This dataset is composed of information collected by the World Health Organization (WHO) and contains lexicon which i addressed in the accompanying table diagram.
 There are 16695 rows, and 14 columns (13 features) in our dataset.
 
 My target's, "AQI Category", values are defined as below:
