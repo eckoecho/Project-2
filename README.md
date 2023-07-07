@@ -40,7 +40,12 @@ My target's, "AQI Category", values are defined as below:
 
 # Exploratory Data Analysis
 
+## AQI Value vs. PM2.5 AQI Value
+
 When comparing features, the most prominent influencer of air quality is the PM2.5 levels within a city. In the scatterplot, we can see higher levels of PM2.5 are only present when the air quality dips into the unhealthy air quality. Therefore, reducing or eliminating PM2.5 levels within a city improves the air quality. Smaller levels of PM2.5 ranging from 0 to 100 are toleratable to be considered in the good and moderate air qualities. 
 
 <img width="850" alt="Screenshot 2023-07-07 at 8 07 31 AM" src="https://github.com/eckoecho/Project-2/assets/43970023/d4f47613-7c7f-47ea-b0e0-664949b002b0">
 
+## AQI Value vs. CO AQI Value
+
+<img width="565" alt="Screenshot 2023-07-07 at 8 54 16 AM" src="https://github.com/eckoecho/Project-2/assets/43970023/957e9a40-7b44-4538-9fb1-0d6b1a484a61">
