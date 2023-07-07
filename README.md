@@ -39,7 +39,7 @@ My target's, "AQI Category", values are defined as below:
 
 ## AQI Value vs. PM2.5 AQI Value
 
-When comparing features, the most prominent influencer of air quality is the PM2.5 levels within a city. In the scatterplot, we can see higher levels of PM2.5 are only present when the air quality dips into the unhealthy air quality. Therefore, reducing or eliminating PM2.5 levels within a city improves the air quality. Smaller levels of PM2.5 ranging from 0 to 100 are toleratable to be considered in the good and moderate air qualities. 
+When comparing features, the most prominent influencer of air quality is the PM2.5 levels within a city. In the scatterplot, we can see higher levels of PM2.5 are only present when the air quality dips into the unhealthy air quality. Smaller levels of PM2.5 ranging from 0 to 100 are toleratable to be considered in the good and moderate air qualities. Therefore, reducing or eliminating PM2.5 levels within a city improves the air quality. However, if these actions aren't possible individuals should check a city's PM2.5 levels to consider where they fall in the spectrum of air quality.
 
 <img width="850" alt="Screenshot 2023-07-07 at 8 07 31 AM" src="https://github.com/eckoecho/Project-2/assets/43970023/d4f47613-7c7f-47ea-b0e0-664949b002b0">
 
@@ -48,3 +48,7 @@ When comparing features, the most prominent influencer of air quality is the PM2
 Carbon Monoxide (CO) AQI Values also play a significant in the air quality. Presence of CO levels don't necessarily indicate that air quality is unhealthy, rather the quantity of CO levels in the air is the key factor.  CO levels below 1.5 are still considered tolerable to moderate and good air qualities.  However, good air qualities reading indicate the CO levels need to be at .75 and below.  CO levels at 1.5 and above contribute to an unhealthy air quality. It should be noted, it is possible to have lower levels of CO and still be grouped into the unhealthy air quality.
 
 <img width="565" alt="Screenshot 2023-07-07 at 8 54 16 AM" src="https://github.com/eckoecho/Project-2/assets/43970023/957e9a40-7b44-4538-9fb1-0d6b1a484a61">
+
+
+# Recommended Model
+
