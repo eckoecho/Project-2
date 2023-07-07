@@ -10,16 +10,13 @@
 | **PM2.5** | PM2.5 refers to tiny particles or droplets in the air that are 2.5 micrometers or less in width. They can be harmful to human health when inhaled, especially in high concentrations.|
 
 
+In an increasingly polluted world, air pollution contaminates the fundamental necessities of life. This analysis is relevant to anyone who values the quality of life and depends on clean air, including policy makers.
 
-* Your business problem and stakeholders
 
-In an ever-increasingly world of pollution, air pollution contaimates the fundamental necessities of life. Not limited to, this analysis is for anyone looking for a space where the quality of life is dependent on the quality of air and for policy makers alike.
-
-* The source of your data
 
 The source of this data comes from Kaggle, an open-source website for datasets and insights. This particular data can be found here: [Kaggle, World Air Quality Index (AQI)](https://www.kaggle.com/datasets/adityaramachandran27/world-air-quality-index-by-city-and-coordinates)
 
-* A description of your data
+
 
 This dataset is composed of information collected by the World Health Organization (WHO) and contains lexicon which i addressed in the accompanying table diagram.
 There are 16695 rows, and 14 columns (13 features) in our dataset.
@@ -47,5 +44,7 @@ When comparing features, the most prominent influencer of air quality is the PM2
 <img width="850" alt="Screenshot 2023-07-07 at 8 07 31 AM" src="https://github.com/eckoecho/Project-2/assets/43970023/d4f47613-7c7f-47ea-b0e0-664949b002b0">
 
 ## AQI Value vs. CO AQI Value
+
+Carbon Monoxide (CO) AQI Values also play a significant in the air quality. Presence of CO levels don't necessarily indicate that air quality is unhealthy, rather the quantity of CO levels in the air is the key factor.  CO levels below 1.5 are still considered tolerable to moderate and good air qualities.  However, good air qualities reading indicate the CO levels need to be at .75 and below.  CO levels at 1.5 and above contribute to an unhealthy air quality. It should be noted, it is possible to have lower levels of CO and still be grouped into the unhealthy air quality.
 
 <img width="565" alt="Screenshot 2023-07-07 at 8 54 16 AM" src="https://github.com/eckoecho/Project-2/assets/43970023/957e9a40-7b44-4538-9fb1-0d6b1a484a61">
