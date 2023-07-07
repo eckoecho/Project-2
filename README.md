@@ -53,3 +53,6 @@ Carbon Monoxide (CO) AQI Values also play a significant in the air quality. Pres
 
 # Recommended Model
 
+While other models, such as the Decision Tree and the tuned Decision Tree, may appear to have better F1 training and testing scores of 1, this actually indicates that the models are overfit and will not accurately predict new data.
+
+My recommendation is to use the Random Forest model with PCA (Principal Component Analysis) because it achieves the best F1 scores. The F1 score considers both precision and recall. The Random Forest model with PCA achieves a testing F1 score of 1 for predicting good air quality, 0.98 for moderate air quality, and 0.93 for unhealthy air quality. The tuned Random Forest model also demonstrates good F1 scores on its testing data. However, when predicting "Unhealthy" air quality, its F1 score drops to 0.01. This is likely due to the limited number of "Unhealthy" data points compared to the number of good or moderate data points.
