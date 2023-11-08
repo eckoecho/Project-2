@@ -2,8 +2,7 @@
 
 
 
-
-In an increasingly polluted world, air pollution contaminates the fundamental necessities of life. This analysis is relevant to anyone who values the quality of life and depends on clean air, including policy makers.
+In a world facing escalating pollution challenges, air quality degradation compromises essential aspects of our existence. This analysis holds significance for individuals who prioritize a high quality of life and rely on clean air, encompassing not only concerned citizens but also policymakers.
 
 
 The source of this data comes from Kaggle, an open-source website for datasets and insights. This particular data can be found here: [Kaggle, World Air Quality Index (AQI)](https://www.kaggle.com/datasets/adityaramachandran27/world-air-quality-index-by-city-and-coordinates)
